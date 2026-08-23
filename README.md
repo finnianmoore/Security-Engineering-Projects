@@ -1,4 +1,4 @@
-![PNPT Certified](https://img.shields.io/badge/PNPT-Certified-0078D4?style=for-the-badge&logo=linux&logoColor=white) ![PJPT Certified](https://img.shields.io/badge/PJPT-Certified-FF6B6B?style=for-the-badge&logo=linux&logoColor=white)
+![PNPT Certified](https://img.shields.io/badge/PNPT-Certified-0078D4?style=for-the-badge&logo=linux&logoColor=white)      ![PJPT Certified](https://img.shields.io/badge/PJPT-Certified-FF6B6B?style=for-the-badge&logo=linux&logoColor=white)
 
 
 # IT & Cybersecurity Projects
