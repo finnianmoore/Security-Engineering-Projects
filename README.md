@@ -22,6 +22,9 @@
 </p>
 ![Virginia Tech](https://img.shields.io/badge/Virginia%20Tech-Cybersecurity-860000?style=for-the-badge&labelColor=333333&color=860000)
 
+
+![Virginia Tech Cybersecurity](https://img.shields.io/badge/Virginia%20Tech%20Cybersecurity-860000?style=for-the-badge&labelColor=333333&color=860000&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABhGlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9TpUUqDnYQcchQnSyIijhKFYtgobQVWnUwufQLmjQkKS6OgmvBwY/FqoOLs64OroIg+AHi5uak6CIl/i8ptIjx4Lgf7+497t4BQqPCNLNrAtB020wl4mImuyoGXxGGgQc9iElMM9OZRBa8x9c9fHy9i3Iv97s/R06dWQDwicSxLMOmW8TzTLaVFeJ94qiaVeYX1X4y6XGjKZVHk2Vsu1lJ8VJ5tJLjy8VVuYLlVUVN48uKVewHGjm8uO2tqhw9XbCymqKMUcXLTFEwG4uiApcD4q1jT2rV+rmGg0MowCXKZAgYmyqnTJJQaRQ4QBNtBwU6sI1vRcwhC5Vy8xwxcW4uTBcQUz7ilCLiPCDRcUgeYbYP/8CJJ+7PE7OQW3PQQV3/r/t9F4YbAYAp7rqR5M78CAe2Qe+2mjHuAW9iXc2dGIP1PhaVjZ6Fg9+i7tVKRYuAQ2AYOujU6k7uPHbqAfTfk2/2m5BLAyU9XQci56Hj7TmoeAITbovP4HPfBwVSfK8Hf0CJk+8POnv3mJN2Bz0L+3ezj7pNpLNVv2BwP5Sf4LcRPGr0PxrkgO7agq5hPwaUvW14ZgSMUOhITF4xM+VtaWAtnl6dmLxT3RcXVf83uH22bfOTfQ+oN5Fq6+5Xdt8pTLPzBcUY4Nc8WQkrAAAAAElFTkSuQmCC)
+
 # IT & Cybersecurity Projects
 
 ## About This Repository
