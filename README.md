@@ -15,12 +15,6 @@
 
 ![Virginia Tech](https://img.shields.io/badge/Virginia%20Tech-Cybersecurity-860000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCI+PHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9IiNmZmZmZmYiLz48dGV4dCB4PSIxNSIgeT0iNzAiIGZvbnQtZmFtaWx5PSJBcmlhbCBCbGFjaywgRnJlZVN0eWxlLCBzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iOTAwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtc2l6ZT0iNzAiIGZpbGw9IiM4NjAwMDAiPlZUPC90ZXh0Pjwvc3ZnPg==)
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Virginia_Tech_Hokies_logo.svg/320px-Virginia_Tech_Hokies_logo.svg.png" alt="VT Logo" height="40">
-  <br>
-  <img src="https://img.shields.io/badge/Virginia%20Tech-Cybersecurity-860000?style=for-the-badge&labelColor=333333&color=860000" alt="Virginia Tech">
-</p>
-![Virginia Tech](https://img.shields.io/badge/Virginia%20Tech-Cybersecurity-860000?style=for-the-badge&labelColor=333333&color=860000)
 
 
 ![Virginia Tech Cybersecurity](https://img.shields.io/badge/Virginia%20Tech%20Cybersecurity-860000?style=for-the-badge&labelColor=333333&color=860000&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAJvSURBVFiF7Zf/axNBFMc/s/uRH2LwB0KLWIOtNGi1h0BqQYNaD4IWBCuCioKIVkRYQVSsrwXBCgpaqZWCP0DQDxT0FbS+YF9QzFZtYqox1CS6l7nf/bF3SXrXJilG8cHw7nZ37n7mfXfmQa1Ww7FYzFosFj5/4J+i0Q9vKJV6h+93yQHCNI3WtmGEmL8FFggIIE5r5Gl7G4c1ofsBw5A38ffPyQGCkCFhIKABhggbAclK/xqgA8Q8fU46HJX9P+4iACSAiAA9wDXA1rI/1rMIFggIYBpgMiB/l9HLJRM/BMBJ4Ifm/7dKGAOE0ICwOICDeVv3vE1nD/GDEtNFAuIAjQAE2S67ABwGvF0CIVBbWQC1Wg3Lsizpxa4uCJKWYtA7aOMB0GpG47xPJN2i7KdPJAYB8E4DtgF9jtk6f9cUuABsIDaAx/M+IJmIBJozOmC10h+zfxBgV/4JvHMvtVn5YwH/YQ4WAGnugUgkgqU2uNlK97MGPglW3qcPvwuAtD+RoAi9F8I1Rj2tr+Qk9A6Ag9wD8YQMfjsKAN6sD0IksJN4Qq5K0BcI1qibyG4dYAmI+7KkP0DkQq+tT6P3QpA9DEghCBuxyK9wOxMPTSeMLnNE10oKIViaLWXj3DvHlHZqBp2PBrcM4Iq3GBK3FkXogwZg2KjZPCwcx8XnHj7sYkOUtixCO9xhDwdI8I5owdCQA0QRRRIPFHYeooBEE0nnQmNjYz3GmGjiETvD0PoB/IG+1aB7g0PnAAAAAElFTkSuQmCC)
