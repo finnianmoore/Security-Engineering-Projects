@@ -1,6 +1,8 @@
 ![PNPT Certified](https://img.shields.io/badge/PNPT-Certified-0078D4?style=for-the-badge&logo=linux&logoColor=white) 
 ![PJPT Certified](https://img.shields.io/badge/PJPT-Certified-FF6B6B?style=for-the-badge&logo=linux&logoColor=white)
-
+![Security+](https://img.shields.io/badge/Security%2B-Certified-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![PEH](https://img.shields.io/badge/PEH-Certified-4B0082?style=for-the-badge&logo=linux&logoColor=white)
+![Virginia Tech](https://img.shields.io/badge/Virginia%20Tech-Cybersecurity-860000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAzMCI+PHBvbHlsaW5lIHBvaW50cz0iMCwwIDMwLDAgMTUsMjUgMCwwIiBmaWxsPSIjODYwMDAwIi8+PC9zdmc+)
 
 # IT & Cybersecurity Projects
 
