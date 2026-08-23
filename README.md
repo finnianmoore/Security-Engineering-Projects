@@ -15,6 +15,11 @@
 
 ![Virginia Tech](https://img.shields.io/badge/Virginia%20Tech-Cybersecurity-860000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCI+PHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9IiNmZmZmZmYiLz48dGV4dCB4PSIxNSIgeT0iNzAiIGZvbnQtZmFtaWx5PSJBcmlhbCBCbGFjaywgRnJlZVN0eWxlLCBzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iOTAwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZvbnQtc2l6ZT0iNzAiIGZpbGw9IiM4NjAwMDAiPlZUPC90ZXh0Pjwvc3ZnPg==)
 
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Virginia_Tech_Hokies_logo.svg/320px-Virginia_Tech_Hokies_logo.svg.png" alt="VT Logo" height="40">
+  <br>
+  <img src="https://img.shields.io/badge/Virginia%20Tech-Cybersecurity-860000?style=for-the-badge&labelColor=333333&color=860000" alt="Virginia Tech">
+</p>
 ![Virginia Tech](https://img.shields.io/badge/Virginia%20Tech-Cybersecurity-860000?style=for-the-badge&labelColor=333333&color=860000)
 
 # IT & Cybersecurity Projects
