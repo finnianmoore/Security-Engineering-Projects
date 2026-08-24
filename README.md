@@ -14,6 +14,8 @@
 ![PNPT Certified](https://img.shields.io/badge/PNPT-Certified-652d90?style=for-the-badge&logo=parrotsecurity&logoColor=white)
 
 
+![PNPT Certified](https://img.shields.io/badge/PNPT-Certified-652d90?style=for-the-badge&logo=https://raw.githubusercontent.com/finnianmoore/Security-Engineering-Projects/main/images/TCM-logo-bw-4.svg)
+
 # IT & Cybersecurity Projects
 
 ## About This Repository
