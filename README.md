@@ -1,5 +1,7 @@
 ![PNPT Certified](https://img.shields.io/badge/PNPT-Certified-0078D4?style=for-the-badge&logo=linux&logoColor=white) 
 
+![PNPT Certified](https://img.shields.io/badge/PNPT-Certified-652d90?style=for-the-badge&logo=data:image/svg%2bxml;base64,INSERT_BASE64_HERE)
+
 ![PJPT Certified](https://img.shields.io/badge/PJPT-Certified-FF6B6B?style=for-the-badge&logo=linux&logoColor=white)
 
 ![Security+](https://img.shields.io/badge/Security%2B-Certified-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
