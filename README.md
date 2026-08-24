@@ -11,7 +11,7 @@
 <img src="./images/TCM-logo-v-small.svg" height="28" alt="TCM Security Certified">
 
 
-
+![PNPT Certified](https://img.shields.io/badge/PNPT-Certified-652d90?style=for-the-badge&logo=parrotsecurity&logoColor=white)
 
 
 # IT & Cybersecurity Projects
